@@ -6,6 +6,10 @@
 * Semestre: 2023/1
 * Data da entrega: 28/06/2023
 * Valor: 4,0
+* Link para a database: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package?datasetId=6012&searchQuery=k-me
+
+
+> Observação: durante o trabalho utilizei como exemplo um codigo que encontrei no kaggle e percebi que meus resultados coincidem: https://www.kaggle.com/code/dominikstrzalko/predicting-the-rain-using-5-different-methods-84
 
 > Orientações: preencher com seus dados antes da data de entrega
 
